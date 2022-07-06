@@ -8,4 +8,4 @@ This repo shows some of my work on this task.
 
 ## Reports
 
-https://github.com/christopherdiamana/nlp/master/doc/english.pdf
+https://github.com/christopherdiamana/nlp/blob/main/NLP1_Rapport_Catch_Up.pdf
