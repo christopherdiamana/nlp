@@ -8,4 +8,5 @@ This repo shows some of my work on this task.
 
 ## Reports
 
-https://github.com/christopherdiamana/nlp/Catch-up_2/blob/main/NLP2_Rapport_Catch_Up.pdf
+https://github.com/christopherdiamana/nlp/blob/main/Catch-up_2/NLP2_Rapport_Catch_Up.pdf
+
